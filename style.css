@@ -1,0 +1,134 @@
+#silver{
+   background-color: #C12A0A;
+   display: block;
+   height: 55%;
+   justify-content: space-evenly;
+   margin: 0px;
+   padding: 0px;
+}
+#sign-up-area{
+    width: 35%;
+    background-color: #C12A0A; /* alpha 0 - 1*/
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px 0;
+}
+#sign-up-form input{
+    width: 90%;
+    margin: 5px 0;
+    border:none;
+    border-bottom: 4px solid transparent;
+    
+}
+#image1{
+    display: flex;
+    justify-content: flex-start;
+    background-color: #C12A0A;
+}
+#maintext ul li a {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 35px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+#maintext ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    justify-content: space-evenly;
+}
+#text li a:hover{
+    font-weight: bold;
+    color:black;
+}
+#search-input{
+    height: 30px;
+    width: 500px;
+    font-size: 15px;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    
+}
+#search-btn{
+    height: 32px;
+    width: 35px;
+    border-radius: 10px;
+
+}
+#aluminium img{
+    display: flex;
+    height: 75px;
+    width: px;
+    padding: 5px 5px ;
+    margin: 5px 5px ;
+    background-color: black;
+}
+#header{
+    display: flex;
+    justify-content : center;
+}
+.product-view h1 {
+    color: black;
+    margin-bottom: 0;
+    margin-left: 50px;
+}
+
+.product-view hr {
+    margin: 0;
+    margin-left: 50px;
+    width: 25%;
+    height: 3px;
+    background-color: black;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product img {
+    width: 200px;
+    height: 200px;
+}
+
+.product-footer {
+    display: flex;
+    justify-content: space-between;
+}
+.slide {
+    width: 30%;
+    height: 240px;
+    display: flex;
+}
+.slideshow{
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    display: flex;
+    background-color: #C12A0A;
+    justify-content: space-around;
+}
+
+.footer .title {
+    font-size: 55px;
+    color: #f5faf1;
+}
+
+
+.icons i {
+    font-size: 50px;
+    margin: 0 5px;
+    color: aliceblue;
+}
+
+.icons i:hover {
+    color: #5898aa;
+}
+
+.map {
+    margin: 10px 0;
+}
